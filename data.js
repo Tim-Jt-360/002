@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-entre-erdgeschoss",
-      "name": "Entrée erdgeschoss",
+      "name": "ERDGESCHOSS",
       "levels": [
         {
           "tileSize": 256,
@@ -122,7 +122,7 @@ var APP_DATA = {
     },
     {
       "id": "3-entre-gartengeschoss",
-      "name": "Entrée gartengeschoss",
+      "name": "GARTENGESCHOSS",
       "levels": [
         {
           "tileSize": 256,
